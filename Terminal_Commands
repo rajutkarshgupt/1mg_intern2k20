@@ -1,14 +1,21 @@
-ls
-ls -n
+ls                      List subdirectories & file inside a directory
+ls -n         
 ls -a
-cat filename
+cat filename            Prints contents of file
+cd                      Change directory
 cd directory_name
-cd /
-cd .
-cd..
-mkdir
+cd /                    Change to root
+cd .                                       
+cd..                    Change to parent directory
+mkdir                   Make directory
 clear
-mv
-rm
-mkdir
+mv                      Move
+rm                      Remove
 whoami
+man                     manual
+history                 Terminal history
+pwd                     Present working directory
+cd ~                    Change to home directory   
+*                       Wildcard expansion
+find
+echo
