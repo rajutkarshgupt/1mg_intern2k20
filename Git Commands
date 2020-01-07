@@ -1,0 +1,7 @@
+git --help
+git init 
+git add
+git diff
+
+git rm
+git add filename.txt
