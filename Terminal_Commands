@@ -7,3 +7,8 @@ cd /
 cd .
 cd..
 mkdir
+clear
+mv
+rm
+mkdir
+whoami
