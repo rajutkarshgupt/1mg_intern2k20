@@ -1,0 +1,9 @@
+ls
+ls -n
+ls -a
+cat filename
+cd directory_name
+cd /
+cd .
+cd..
+mkdir
